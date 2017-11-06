@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 关于我
+subtitle: 一不小心过上与20多岁的林肯一样的人生
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Venior, 或者M7都是我的笔名.写此博客仅以记录这段混沌的岁月:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### 我的历史
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+20多岁的年龄，是否也算得上是快要奔三呢?从前给自己定义了许多目标，到现在却开始按照自己方式去理解，那些深陷堕落，无法自拔的人群。
