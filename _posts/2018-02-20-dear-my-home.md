@@ -2,6 +2,12 @@
 layout: post
 title: 亲爱的，家乡!
 subtitle: 我该怎么努力报答您
+date: 2018-02-20
+author: Veni
+categories: 随笔
+#cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: 家乡 观点
+
 ---
 
 {: .box-note}
@@ -18,3 +24,4 @@ subtitle: 我该怎么努力报答您
 
 ## 总结
 
+观点不同，不比争论对错。事情只有容易的和正确的，做正确的事人很痛苦，但是不容易迷茫
